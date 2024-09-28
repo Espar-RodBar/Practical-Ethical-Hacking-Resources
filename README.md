@@ -50,9 +50,9 @@ New Capstone boxes: https://drive.google.com/drive/folders/1VXEuyySgzsSo-MYmyCar
 
 Old Capstone boxes: https://youtu.be/JZN3JhoAdWo
 
-Linux Priv Esc course: https://academy.tcm-sec.com/p/windows-privilege-escalation-for-beginners
+Windows Priv Esc course: https://academy.tcm-sec.com/p/windows-privilege-escalation-for-beginners
 
-Windows Priv Esc Course: https://academy.tcm-sec.com/p/linux-privilege-escalation
+Linux Priv Esc Course: https://academy.tcm-sec.com/p/linux-privilege-escalation
 
 ### Introduction to Exploit Development (Buffer Overflows)
 Immunity Debugger: https://www.immunityinc.com/products/debugger/
